@@ -1,0 +1,16 @@
+/* Part of a demo theme for ownCloud
+*  Provided free as a demonstration of 
+*  possibility.. :-)
+*/
+
+#header .logo {
+	background-image: url(../img/logo.png);
+	/* Please note, this relative link will mean that the file should be in the following dir:
+	*  [theme name]/core/img/logo.svg
+	*  SVG files prefered, using a png as I don't have a SVG creator
+	*/
+	background-repeat: no-repeat;
+	width: 252px;
+	height: 120px;
+	margin: 0 auto;
+}
