@@ -4,10 +4,10 @@
 */
 
 #header .logo {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/demoCloud.svg);
 	/* Please note, this relative link will mean that the file should be in the following dir:
 	*  [theme name]/core/img/logo.svg
-	*  SVG files prefered, using a png as I don't have a SVG creator
+	*  Yes, you can use jpeg, png etc here.
 	*/
 	background-repeat: no-repeat;
 	width: 252px;
