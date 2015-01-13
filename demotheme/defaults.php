@@ -9,7 +9,7 @@
 		*/
 		return 'demoCloud';
     }
-	public function getTitle() { 
+	public function getTitle() {
 		/* can be a longer name, for titles
 		* @return string
 		*/
