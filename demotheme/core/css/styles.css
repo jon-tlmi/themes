@@ -12,7 +12,7 @@
 	background: -o-linear-gradient(top, #600 0%,#222  100%); /* Opera11.10+ */
 	background: -ms-linear-gradient(top, #600 0%,#222  100%); /* IE10+ */
 	background: linear-gradient(top, #600 0%,#222  100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#600', endColorstr='#222 ',GradientType=0 ); /* IE6-9 */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#600000', endColorstr='#222222 ',GradientType=0 ); /* IE6-9 */
 }
 /*	makes the log in button a ghost button */
 #body-login input[type="submit"] {
