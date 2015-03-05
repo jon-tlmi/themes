@@ -14,4 +14,21 @@
 	background: linear-gradient(top, #600 0%,#222  100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#600', endColorstr='#222 ',GradientType=0 ); /* IE6-9 */
 }
-
+/*	makes the log in button a ghost button */
+#body-login input[type="submit"] {
+  border: 1px solid #fff;
+}
+.primary, input.primary[type="submit"], input.primary[type="button"], button.primary, .button.primary {
+  background-color:rgba(255,0,0,0.5);
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+/*	button hover colour */
+.primary:hover, input.primary[type="submit"]:hover, input.primary[type="button"]:hover, button.primary:hover, .button.primary:hover, .primary:focus, input.primary[type="submit"]:focus, input.primary[type="button"]:focus, button.primary:focus, .button.primary:focus {
+	background-color:#600;
+}
