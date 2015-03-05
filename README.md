@@ -8,6 +8,8 @@ to patch the source code. This functionality is known as Theming.
 
 This document will first discuss the “How-to” of basic theming then go into an example on basic theming an ownCloud instance.
 
+Contributions from me (jon-tlmi) provided free as in beer and free as in copyright. 
+
 ###Configuration
 
 The themes directory within ownCloud is the container for all theming files.
