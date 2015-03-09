@@ -18,7 +18,7 @@
 #body-login input[type="submit"] {
   border: 1px solid #fff;
 }
-.primary, input.primary[type="submit"], input.primary[type="button"], button.primary, .button.primary {
+.primary, input.primary[type="submit"], input.primary[type="button"], .button.primary {
   background-color:rgba(255,0,0,0.5);
   display: inline-block;
   width: 200px;
